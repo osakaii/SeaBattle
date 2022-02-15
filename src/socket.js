@@ -1,0 +1,1 @@
+export const ws = new WebSocket('ws://192.168.18.128:8000/ws/chat/game/')

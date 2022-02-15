@@ -1,0 +1,32 @@
+
+
+.signUp{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form_bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.input{
+    padding: 5px;
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+.modal{
+    color: red;
+    background-color: rgba(255, 0, 0, 0.212);
+    text-align: center;
+    padding: 7px;
+}

@@ -1,0 +1,23 @@
+
+.userList{
+    position: sticky;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background-color: rgb(44, 44, 44);
+    width: 17vw;
+    padding: 10px;
+}
+
+.user{
+    color: white;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.445) ;
+
+}
+.UsersText{
+    color: white;
+    text-align: center;
+    margin: 7px;
+}
